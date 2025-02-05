@@ -15,4 +15,4 @@ When the time is reached, a **sound file is played**.  
 2. Clone this repository:  
    ```sh
    git clone https://github.com/king-x06/AlarmClockApp.git
-3. Make sure to store the file in .wav format
+3. Make sure to store the sound file in .wav format
