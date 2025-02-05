@@ -14,5 +14,5 @@ When the time is reached, a **sound file is played**.  
 1. Install [JavaFX SDK](https://openjfx.io/)
 2. Clone this repository:  
    ```sh
-   git clone https://github.com/your-username/AlarmClockApp.git
+   git clone https://github.com/king-x06/AlarmClockApp.git
 3. Make sure to store the file in .wav format
