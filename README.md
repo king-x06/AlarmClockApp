@@ -1,4 +1,18 @@
 # AlarmClockApp
-A simple JavaFX-based alarm clock app where users can set an alarm time in HH:MM:SS format. When the time is reached, a sound file is played. The app features an intuitive interface, alarm scheduling with Java's Timer, and sound playback using Clip. Built with Java 8 or higher.
+# AlarmClockApp
 
-Make sure to add the specific location of alarm ringtone so the sytem can use that for playing. Make sure it is in wav format.
+A simple **JavaFX-based alarm clock** where users can set an alarm in `HH:MM:SS` format.  
+When the time is reached, a **sound file is played**.  
+
+## Features
+- Intuitive **JavaFX UI**
+- Alarm scheduling with `Timer`
+- Sound playback using `Clip`
+- Built with **Java 8 or higher**
+
+## Installation
+1. Install [JavaFX SDK](https://openjfx.io/)
+2. Clone this repository:  
+   ```sh
+   git clone https://github.com/your-username/AlarmClockApp.git
+3. Make sure to store the file in .wav format
